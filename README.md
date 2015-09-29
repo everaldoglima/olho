@@ -1,4 +1,4 @@
 # olho
 olho.mobi
 
-www.vamosmelhoraromundo.com.br
+www.vamosmelhoraromundo.com
